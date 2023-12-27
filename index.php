@@ -1,3 +1,4 @@
 <?php
-echo "good job";
+echo "good job<br>";
+phpinfo();
 ?>
