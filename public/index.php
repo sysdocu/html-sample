@@ -8,6 +8,6 @@ echo "<p>쿼리: " . $query . "</p>";
 $name = $_GET['name'] ?? '방문자';
 echo "<p>안녕하세요, " . $name . "님!</p>";
 
-echo "<h1>Hello from app2 - 🍋 레몬 (취약한 소스)</h1>";
+echo "<h1>Hello from app2 - 🍇 포도 (취약한 소스)</h1>";
 echo "<p>배포 시간: " . date('Y-m-d H:i:s') . "</p>";
 ?>
